@@ -31,6 +31,11 @@ signup {
   height: [185.01, 205.29],
 },
 
+form {
+  width: [0, 320];
+  height: [226.68, 351.08]
+}
+
 username {
   width: [24.96, 294.96],
   height: [227, 257]
