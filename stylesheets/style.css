@@ -1,0 +1,253 @@
+body {
+  font-family: 'Roboto Condensed';
+  margin: 0px auto;
+  padding: 0px;
+  height: 100vh;
+}
+
+.navbar {
+  color: #FAFAFA;
+  width: 100vw;
+  /*height:10vh;*/
+  /*height: 50/540/*/
+  height: 9.2%;
+}
+
+.navbar > li {
+  /*display: inline-block;*/
+  text-align: center;
+  height: 100%;
+
+
+}
+
+.navtitle {
+  float: left;
+  width: 69%;
+  background-color: #93278F;
+}
+
+
+.menu {
+  float: left;
+  background-color: #662C91;
+  width: 31%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.middle {
+  background-color: #ECEFF1;
+  height: 63%;
+}
+
+.logo-top {
+  height: 8.24%;
+  width: 100%;
+}
+
+.logo-container {
+  height: 13.8%;
+}
+
+.logo-left {
+  float: left;
+  width: 7.5%;
+  height: 100%;
+}
+
+.logo {
+  float: left;
+  width: 12.5%;
+  height: 100%;
+}
+
+.logo-right {
+  float: left;
+  width: 80%;
+}
+
+.bookmark-top {
+  height: 7.359%;
+  width: 100%;
+}
+
+.bookmark-container {
+  width: 100%;
+  height: 3.82%;
+}
+
+.bookmark-left {
+  float: left;
+  width: 7.8%;
+  height: 100%;
+}
+
+.bookmark {
+  float: left;
+  width: 84.375%;
+  height: 100%;
+  color: #626B76;
+  font-size: 1.5vh;
+}
+
+.bookmark-right {
+  float: left;
+  width: 7.825%;
+  height: 100%;
+}
+
+.signup-top {
+  width: 100%;
+  height: 6.38%;
+}
+
+.signup-container {
+  width: 100%;
+  height: 5.97%;
+}
+
+.signup-left {
+  float: left;
+  width: 7.34%;
+  height: 100%;
+}
+
+.signup {
+  float: left;
+  width: 24.71%;
+  height: 100%;
+}
+
+.signup-right {
+  float: left;
+  width: 67.95%;
+  height: 100%;
+}
+
+.username-top {
+  width: 100%;
+  height: 12.35%;
+}
+
+.username-container {
+  width: 100%;
+  height: 8.82%;
+  color: #78909C;
+}
+
+.username-left {
+  float: left;
+  width: 7.8%;
+  height: 100%;
+}
+
+.username {
+  float: left;
+  width: 84.375%;
+  height: 100%;
+  background-color: white;
+}
+
+.username-right {
+  float: left;
+  width: 7.825%;
+  height: 100%;
+}
+
+
+.password-top {
+  width: 100%;
+  height: 4.24%;
+}
+
+.password-container {
+  width: 100%;
+  height: 8.82%;
+  color: #78909C;
+}
+
+.password-left {
+  float: left;
+  width: 7.8%;
+  height: 100%;
+}
+
+.password {
+  float: left;
+  width: 84.375%;
+  height: 100%;
+  background-color: white;
+}
+
+.eye {
+  float: right;
+}
+
+.password-right {
+  float: left;
+  width: 7.825%;
+  height: 100%;
+}
+
+.signup-button-top{
+  width: 100%;
+  height: 5.88%;
+}
+
+.signup-button-container {
+  width: 100%;
+  height: 8.82%;
+}
+
+.signup-button-container-left {
+  float: left;
+  width: 7.5%;
+  height: 100%;
+}
+
+.signup-button-container-button {
+  float: left;
+  width: 31.25%;
+  height: 100%;
+  background-color: #662D91;
+  color: #FAFAFA;
+  font-size: 2vw;
+}
+
+.signup-button-container-center {
+  float: left;
+  width: 34.19%;
+  height: 100%;
+}
+
+.signup-button-container-help {
+  float: left;
+  width: 19.24%;
+  height: 100%;
+  color: #626B76;
+}
+
+.signup-button-container-right {
+  float: left;
+  width: 7.82%;
+  height: 100%;
+}
+
+.bottom {
+  background-color: #E0E5E8;
+  height: 27.8%;
+}
+
+span {
+  text-align: center;
+  position: relative;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+}

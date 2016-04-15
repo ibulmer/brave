@@ -1,0 +1,52 @@
+positions.txt
+
+body {
+  width: [0: 320],
+  height: [0, 540],
+},
+
+one {
+  height: [0, 50],
+  width: [0, 320],
+},
+
+two {
+  width: [0, 320],
+  height: [50, 390],
+},
+
+
+logo: {
+  width: [24,64],
+  height: [77.9, 125.23],
+},
+
+bookmark; {
+  width:  [ 24.96, 294.96],
+  height: [150.32, 163.32],
+},
+
+signup {
+  width: [24.955, 79.087],
+  height: [185.01, 205.29],
+},
+
+username {
+  width: [24.96, 294.96],
+  height: [227, 257]
+},
+
+password {
+  width: [24.96, 294.96],
+  height: [271.42, 301.42],
+},
+
+sign-up-button {
+  width: [24, 124],
+  height: [321.4, 351.4],
+}
+
+three {
+  width: [0, 320],
+  height: [390, 540]
+},
